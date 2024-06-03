@@ -20,7 +20,6 @@
  
  -Script and technical optimization was done.
 
-
 ![Ekran görüntüsü 2024-06-03 213751](https://github.com/Nhuseyinozen/Runner/assets/149398357/fafe56ee-fb95-427c-b4da-be20c0be7130)
 ![Ekran görüntüsü 2024-06-03 213935](https://github.com/Nhuseyinozen/Runner/assets/149398357/751a7e47-14e7-48dc-b63c-265151cf7242)
 ![Ekran görüntüsü 2024-06-03 213920](https://github.com/Nhuseyinozen/Runner/assets/149398357/f65f4868-d599-40e2-b2f3-4a308b8f748c)
