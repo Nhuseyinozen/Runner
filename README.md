@@ -14,7 +14,7 @@
  
  -Game audio platform created.
  
-- In-game purchasing system has been made.
+-In-game purchasing system has been made.
  
  -Menu system has been installed. Customization, market, settings and in-game purchases.
  
