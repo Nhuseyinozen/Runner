@@ -26,6 +26,7 @@
 ![Ekran görüntüsü 2024-06-03 213912](https://github.com/Nhuseyinozen/Runner/assets/149398357/d5280637-a2d0-41a6-baa6-588b06f6cde0)
 ![Ekran görüntüsü 2024-06-03 213858](https://github.com/Nhuseyinozen/Runner/assets/149398357/61d5ba6b-04d1-4d0d-86d4-58c26d9202cb)
 ![Ekran görüntüsü 2024-06-03 213849](https://github.com/Nhuseyinozen/Runner/assets/149398357/bae31ffe-773e-45b5-a0ab-8c5c9e92fc63)
+![Ekran görüntüsü 2024-06-06 131222](https://github.com/Nhuseyinozen/Runner/assets/149398357/5403f685-cc0f-4aa7-b867-26e7d331d4a9)
 ![Ekran görüntüsü 2024-06-03 213840](https://github.com/Nhuseyinozen/Runner/assets/149398357/8d8a7baf-ff54-48c1-b86f-d3f032463ad2)
 ![Ekran görüntüsü 2024-06-03 213824](https://github.com/Nhuseyinozen/Runner/assets/149398357/6cf7a433-bcdc-4970-9c3f-d73b0c6a02d7)
 ![Ekran görüntüsü 2024-06-03 213814](https://github.com/Nhuseyinozen/Runner/assets/149398357/ce53acab-f42f-480c-a7d5-812b9ecac138)
@@ -37,6 +38,7 @@
 ![Ekran görüntüsü 2024-06-03 214107](https://github.com/Nhuseyinozen/Runner/assets/149398357/58c331a9-cd76-4105-8180-c08ec6726720)
 ![Ekran görüntüsü 2024-06-03 214055](https://github.com/Nhuseyinozen/Runner/assets/149398357/71928dd8-ad36-4697-bf54-5f833bf429c6)
 ![Ekran görüntüsü 2024-06-03 214035](https://github.com/Nhuseyinozen/Runner/assets/149398357/7d5540c8-5931-4af4-8244-339defd95911)
+
 
 
 
